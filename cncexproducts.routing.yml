@@ -1,0 +1,7 @@
+cncexproducts.admind:
+  path: '/admin/cncexproducts'
+  defaults:
+    _controller: '\Drupal\cncexproducts\Controller\CNCExProducts::product_list'
+    _title: 'CNC/Ex Salesforce Products'
+  requirements:
+    _permission: 'admin content'

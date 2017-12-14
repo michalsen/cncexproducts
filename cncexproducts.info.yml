@@ -1,0 +1,5 @@
+name: CNC Ex Products
+type: module
+description: 'Salesforce Products'
+core: 8.x
+package: SN Custom
